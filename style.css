@@ -1,9 +1,26 @@
-div{
-    position: fixed;
-    top: 10%;
-    right: 50%;
-    left: 26%;
+.Heart{
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
 }
+
 body{
     background-color: pink;
+}
+.Buttons{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 8rem;
+}
+.Yes{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
+.Freddy{
+    display: flex;
+    justify-content: center;
 }

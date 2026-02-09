@@ -1,0 +1,9 @@
+div{
+    position: fixed;
+    top: 10%;
+    right: 50%;
+    left: 26%;
+}
+body{
+    background-color: pink;
+}
